@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "MeetingNotes"
-    url: /meeting_notes/
+  - title: "Portfolio"
+    url: /Portfolio/
   - title: "Category"
     url: /categories/
     
