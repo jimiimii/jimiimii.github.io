@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /portfolio/
 title: "Portfolio"
 excerpt: "About Me"
 modified: 2020-02-14
